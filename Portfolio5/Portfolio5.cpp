@@ -5,6 +5,6 @@ using namespace std;
 
 void main()
 {
-	string firstSentences = "Hello World!";
+	string firstSentences = "Good Morning World!";
 	cout << firstSentences << endl;
 }
